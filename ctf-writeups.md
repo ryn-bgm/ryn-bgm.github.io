@@ -8,10 +8,13 @@ has_children: true
 # Entraînement Continu & CTF
 
 Je participe activement à des CTF en équipe et je maintiens une veille technique constante.
+* **Ramadan CTF:** CTF sur 30 jours; 29/697
+* **Jeanne d'Hack CTF :** CTF sur 24 heures; 36/384
 
 ## Plateformes & Classements
-* **[TryHackMe (`rynbgm`)](https://tryhackme.com/p/rynbgm) :** Top 2% (Plus de 130 rooms complétées).
-* **[Root-Me (`rynbgm`)](https://www.root-me.org/rynbgm) :** Plus de 1700 points (Plus de 100 challenges validés).
+* **[TryHackMe (`rynbgm`)](https://tryhackme.com/p/rynbgm)**
+* **[Root-Me (`rynbgm`)](https://www.root-me.org/rynbgm)**
+* **[HachTheBox (`rynbgm`)](https://app.hackthebox.com/public/users/2268449)**
 * **Pentest IA / Web :** Entraînement sur Lakera Gandalf et PortSwigger.
 
 ## Mes Writeups
